@@ -1,3 +1,3 @@
 # YAMINIPODUGU_DesignPrinciples
 
-Creating a calculator application
+Creating a simple calculator application
